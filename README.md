@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @annoga
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning java through Stanford's CS106A online course
+- 💞️ I’m looking to collaborate anywhere I can be of help while continue learning
+<!---
+- 📫 You can reach me through ...
+
+
+annoga/annoga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
