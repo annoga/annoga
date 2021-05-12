@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @annoga
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java through Stanford's CS106A online course
-- 💞️ I’m looking to collaborate anywhere I can be of help while continue learning
+- 💞️ I’m looking to collaborate anywhere I can be of help while I continue learning
 <!---
 - 📫 You can reach me through ...
 
